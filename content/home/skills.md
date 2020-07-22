@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "fa-java"
+  icon = "java"
   icon_pack = "fab"
   name = "Java"
   description = "80%"
