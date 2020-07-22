@@ -18,19 +18,26 @@ subtitle = ""
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "80%"
-  
 [[feature]]
   icon = "creative-commons-share"
   icon_pack = "fab"
-  name = "J2EE"
-  description = "70%"  
-  
+  name = "J2EE" 
+[[feature]]
+  icon = "creative-commons-share"
+  icon_pack = "fas"
+  name = "Rest and Odata API"
 [[feature]]
   icon = "creative-commons-shar"
   icon_pack = "fab"
-  name = "Rest and Odata API"
-  description = "60%"
+  name = "Kubernetes"
+[[feature]]
+  icon = "creative-commons-share"
+  icon_pack = "fab"
+  name = "Kafka"
+[[feature]]
+  icon = "creative-commons-share"
+  icon_pack = "fab"
+  name = "Redis"
 
 # Uncomment to use emoji icons.
 # [[feature]]
