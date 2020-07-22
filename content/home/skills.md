@@ -21,10 +21,10 @@ subtitle = ""
   description = "80%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "creative-commons-share"
+  icon_pack = "fab"
+  name = "J2EE"
+  description = "70%"  
   
 [[feature]]
   icon = "camera-retro"
