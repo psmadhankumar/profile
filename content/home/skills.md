@@ -28,7 +28,7 @@ subtitle = ""
   
 [[feature]]
   icon = "creative-commons-shar"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Rest and Odata API"
   description = "60%"
 
