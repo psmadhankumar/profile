@@ -27,10 +27,10 @@ subtitle = ""
   description = "70%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "creative-commons-shar"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Rest and Odata API"
+  description = "60%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
