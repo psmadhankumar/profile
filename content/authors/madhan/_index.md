@@ -50,4 +50,4 @@ email: ""
 #- Visitors
 ---
 
-Senior Engineer with complete blend of software engineering experience, i.e. design, development, stabilization, performance tuning, automation and performance testing. Skilled in Java, Java EE (Hibernate, Spring MVC & SpringBoot), REST API, TDD, BDD, Selenium & TestNG. Experiences with docker containerization and CI pipeline tools. Good knowledge on MicroServices, Kubernetes & cloud deployment with GCP. 
+Senior Engineer with complete blend of software life cycle design (SDLC) process including requirement Analysis, Design, Development, Test Automation and, maintenance in Java/J2EE web technologies ((Hibernate, Spring MVC & SpringBoot). Skillful in designing customized solutions for meeting non-functional requirements like Scalability and Performance. Experience in working for projects with TDD (Test Driven Development), BDD (Behavior Driven Development), API development, Messaging queue and, distributed caches. Experiences with docker containerization and CI pipeline tools. Good knowledge on MicroServices, Kubernetes & cloud deployment with GCP.
