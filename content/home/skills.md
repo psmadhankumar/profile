@@ -1,7 +1,4 @@
 +++
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
   
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
@@ -11,6 +8,10 @@ weight = 30  # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
 
 # Showcase personal skills or business features.
 # 
