@@ -27,7 +27,7 @@ subtitle = ""
   icon_pack = "fas"
   name = "Rest and Odata API"
 [[feature]]
-  icon = "creative-commons-shar"
+  icon = "creative-commons-share"
   icon_pack = "fab"
   name = "Kubernetes"
 [[feature]]
