@@ -18,6 +18,14 @@ organizations:
   url: "https://www.linkedin.com/company/sap/"
 
 # Short bio (displayed in user profile at end of posts)
+bio: My interests include distributed robotics, mobile computing and programmable matter.
+
+interests:
+- Scalability
+- Performance
+- Messaging
+- Automation
+
 education:
   courses:
   - course: Engineering in Information Technology
