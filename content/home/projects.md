@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "Playground projects"
 
 [content]
   # Page type to display. E.g. project.
@@ -21,9 +21,9 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+   [[content.filter_button]]
+     name = "All"
+     tag = "*"
   
   # [[content.filter_button]]
   #   name = "Deep Learning"
