@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "Playground projects"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -25,9 +25,9 @@ subtitle = "Playground projects"
      name = "All"
      tag = "*"
   
-   [[content.filter_button]]
-     name = "Deep Learning"
-     tag = "Deep Learning"
+  #[[content.filter_button]]
+  #   name = "Deep Learning"
+  #   tag = "Deep Learning"
   
   # [[content.filter_button]]
   #   name = "Other"
