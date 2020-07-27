@@ -44,18 +44,64 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Developer"
   company = "Tech Mahindra"
-  company_url = ""
+  client = "Chevron"
   location = "San Ramon, California"
   date_start = "2011-04-01"
   date_end = "2014-03-28"
   description = """Responsible for requirement analysis, design, develop, migrate & performance test the P2P product “SAP Ariba” for Major Oil and Gas company spends 40 billion through direct and indirect spending on Ariba.
 
   Responsibilities include:
-  * Experience with huge volume data migration
-  * Designed and implemented custom extractions and importing into new object models (with most of the complexities like field type changes, field name changes, converting raw files to blobs, associating backward and forward object references)
-  * Perfected the speed of extract and import using multi-threading and multi-servers
-  * The migration objects involved Contract (Contract Workspace, Contract & Contract Request), Requisition, Purchase Order & Invoices
-  * Architecture the complex task to handle accumulation of commitments, approvals, orders & actuals on different downstream objects
+  * Experience with complex data migration with huge volume data (~10 million)
+  * Designed and implemented custom extractions and custom import
+  * Data model changes includes field type changes, id changes, converting raw files to blobs, associating backward and forward references)
+  * Perfected the speed using multi-threading and multi-servers
+  * The migration objects involved Contract Workspace, Contract, Contract Request, Requisition, Purchase Order & Invoices
+  * Architecture the complex task to handle various accumulation
   """
+  
+  [[experience]]
+  title = "Developer"
+  company = "Tech Mahindra"
+  client = "Chevron"
+  location = "San Ramon, California and Chennai, India"
+  date_start = "2009-04-01"
+  date_end = "2012-03-31"
+  description = """
 
+  Responsibilities include:
+  * Improved performance of application by 22%
+  * Designed & developed monitoring system 
+  * Expereince with scheduled tasks, integrations
+  * Designed and developed UI automation framework 
+  * Experiened with disaster recovery
+  """
+[[experience]]
+  title = "Performance Engineer"
+  company = "Tech Mahindra"
+  client = "Chevron"
+  location = "San Ramon, California"
+  date_start = "2007-04-01"
+  date_end = "2009-03-31"
+  description = """
+
+  Responsibilities include:
+  * Experience with Performance Test Automation
+  * Designed & developed dynamic correlation with environment independent script
+  * Analyzed Transaction Response times, Query Performances, Worker Threads & memory usages
+  * Projects such as Date-Based Pricing, AltaVista Capacity, Database upgrades, regression cycle
+  """
+[[experience]]
+  title = "Associate Software Engineer"
+  company = "Tech Mahindra"
+  client = "Chevron"
+  location = "San Ramon, California"
+  date_start = "2005-04-07"
+  date_end = "2007-03-31"
+  description = """
+
+  Responsibilities include:
+  * Experience with functional and automation tests
+  * Handled end-to-end technical support issues
+  * Exposure to ERP SAP R/3 Materials Management
+  """  
 +++
