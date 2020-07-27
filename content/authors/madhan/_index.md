@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Madhan Kumar P S
+title: Madhan Kumar
 
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.linkedin.com/company/sap/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
 - Scalability
