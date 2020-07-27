@@ -8,7 +8,7 @@
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 2
 
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
